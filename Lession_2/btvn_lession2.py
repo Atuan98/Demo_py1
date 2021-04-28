@@ -57,6 +57,6 @@ e = False
 print(e, ' is type ', type(e))
 print(e, ' is type bool? ', isinstance(e, bool))
 print('+++++++++++++++++++++++++++++++++++++++++')
-e = True
-print(e, ' is type ', type(e))
-print(e, ' is type bool? ', isinstance(e, bool))
+e1 = True
+print(e1, ' is type ', type(e1))
+print(e1, ' is type bool? ', isinstance(e1, bool))
